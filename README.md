@@ -1,0 +1,2 @@
+# staticIPDHCPConfigure
+ISC-DHCP-ServerのMACアドレスによる固定IPの設定部分を作る
